@@ -41,6 +41,7 @@ IE1000与两颗RR77232，两颗RR77235共同构成了射频前端方案，IE1000
 <a href="https://s3.amazonaws.com/uhenry.wiki/dji-sdr-teardown/ic/lattice-sii9293-codeshot-watermark.jpg" target="original">
   <button>View Original Photo</button>
 </a>
+
 ![](https://s3.amazonaws.com/uhenry.wiki/dji-sdr-teardown/ic/lattice-sii9293-codeshot-resize.webp)
 
 
@@ -48,4 +49,9 @@ IE1000与两颗RR77232，两颗RR77235共同构成了射频前端方案，IE1000
 3.5mm耳机接口旁有一颗[NAU88L21](https://www.lcsc.com/datasheet/lcsc_datasheet_2204271615_Nuvoton-Tech-NAU88L21YG_C2917201.pdf)，内置ADC和DAC，用于队内通话音频
 
 ![](https://s3.amazonaws.com/uhenry.wiki/dji-sdr-teardown/ic/gd32-audio-crop-watermark.jpg)
+
+### IO Module 背面
+SDI接口采用[TI LMH0344](https://www.ti.com/lit/ds/symlink/lmh0344.pdf)方案，最高支持到2.97Gbps数据传输速率
+
+![](https://s3.amazonaws.com/uhenry.wiki/dji-sdr-teardown/ic/sdi-lmh0344-crop-specific-watermark.jpg)
 
