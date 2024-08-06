@@ -72,13 +72,16 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
+          /*
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Tutorial',
           },
+          */
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/wiki', label: 'Wiki', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -121,10 +124,10 @@ const config = {
               {
                 label: 'Blog',
                 to: '/blog',
-              },
+              },  
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Bilibili',
+                href: 'https://space.bilibili.com/3546728932313549',
               },
             ],
           },

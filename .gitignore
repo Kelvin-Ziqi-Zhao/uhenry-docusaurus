@@ -8,6 +8,9 @@
 .docusaurus
 .cache-loader
 
+#temp image
+/static/temp-img
+
 # Misc
 .DS_Store
 .env.local

@@ -14,3 +14,7 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+DJI:
+  label: DJI
+  permalink: /dji
+  description: SZ DJI Technology Co Ltd (DJI) is a manufacturer and distributes of drones located in China.
