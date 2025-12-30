@@ -5,7 +5,7 @@ authors: [kelvin,treee]
 tags: [DJI]
 ---
 ## PCB整体布局
-DJI SDR图传发射端电气部分共两块PCBA，一块主要负责射频收发
+DJI SDR图传发射端电气部分共两块PCBA，一块主要负责射频收发。
 ![DJI SDR transmission,P1 chip,Gegadevice ram](https://s3.amazonaws.com/uhenry.wiki/dji-sdr-teardown/pcb/rf-top-resize.webp)
 ![DJI SDR transmission,Sandisk NAND,IE1000](https://s3.amazonaws.com/uhenry.wiki/dji-sdr-teardown/pcb/rf-back-resize.webp)
 
